@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1010651363928",
+    "firebase_url": "https://booktrac-80d54-default-rtdb.firebaseio.com",
+    "project_id": "booktrac-80d54",
+    "storage_bucket": "booktrac-80d54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010651363928:android:4a9454cc72973582fe282d",
+        "android_client_info": {
+          "package_name": "com.example.booktrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010651363928-e4pj4tthnoa6if11pre41auj8p2si4vo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.booktrack",
+            "certificate_hash": "c623955f7b98bacbfa4073cb0bda7254973c0986"
+          }
+        },
+        {
+          "client_id": "1010651363928-1a59bk3g30fo3gcgss2m8dcbrb23issi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcEAyIzeD7dckSPmwo8fO8iNqC3VCfRFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010651363928-1a59bk3g30fo3gcgss2m8dcbrb23issi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
