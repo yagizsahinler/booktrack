@@ -16,10 +16,9 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.booktrack.PdfListAdminActivity;
+import com.example.booktrack.activities.PdfListAdminActivity;
 import com.example.booktrack.filters.FilterCategory;
 import com.example.booktrack.models.ModelCategory;
-import com.example.booktrack.databinding.RowCategoryBinding;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.database.DatabaseReference;

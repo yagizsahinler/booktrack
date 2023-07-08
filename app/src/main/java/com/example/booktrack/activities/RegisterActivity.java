@@ -1,4 +1,4 @@
-package com.example.booktrack;
+package com.example.booktrack.activities;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;

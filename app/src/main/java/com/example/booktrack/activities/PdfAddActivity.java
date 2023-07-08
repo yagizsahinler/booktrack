@@ -1,4 +1,4 @@
-package com.example.booktrack;
+package com.example.booktrack.activities;
 
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
@@ -181,7 +181,8 @@ public class PdfAddActivity extends AppCompatActivity {
         hashMap.put("description", ""+description);
         hashMap.put("categoryId", ""+selectedCategoryId);
         hashMap.put("url", ""+uploadedPdfUrl);
-        hashMap.put("timestamp", timestamp);
+        hashMap.put("viewsCount", 0);
+        hashMap.put("downloadsCounts", 0);
 
         //veritabanı > Kitaplar
         DatabaseReference ref = FirebaseDatabase.getInstance().getReference("Kitaplar");
